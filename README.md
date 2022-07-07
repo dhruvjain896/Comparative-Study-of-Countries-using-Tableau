@@ -1,7 +1,7 @@
 # Comparative-Study-of-Countries-using-Tableau
 
 ## Description
-### A hypothetical company is expanding and wants to open new branches in various parts of the world. The dashboard campares various parameters such as income, life insurance share, market share, penetration, ratio of reinsurance accepted, and retention ratio of different countries using the sample insurance dataset and world development indicators dataset. The objective is to strategize market penetration and to target new customers.
+### A hypothetical company is expanding and wants to open new branches in various parts of the world. The dashboard compares various parameters such as income, life insurance share, market share, penetration, ratio of reinsurance accepted, and retention ratio of different countries using the sample insurance dataset and world development indicators dataset. The objective is to strategize market penetration and to target new customers.
 
 ## Datasets
 ### 1. Primary Dataset – Insurance Sample Dataset
